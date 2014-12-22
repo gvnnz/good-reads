@@ -9,3 +9,4 @@ List of inspiring articles. Tech stuff.
 * [Writing an AngularJS App with Socket.IO](http://www.html5rocks.com/en/tutorials/frameworks/angular-websockets/)
 * [The Little Book on CoffeeScript](http://arcturo.github.io/library/coffeescript/)
 * [Baking Bootstrap Snippets with Jade](http://webdesign.tutsplus.com/tutorials/baking-bootstrap-snippets-with-jade--cms-22798)
+* [How to Redirect a Web Page](http://css-tricks.com/redirect-web-page/)
