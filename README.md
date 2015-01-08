@@ -12,6 +12,7 @@ List of inspiring articles. Tech stuff.
 * [Writing an AngularJS App with Socket.IO](http://www.html5rocks.com/en/tutorials/frameworks/angular-websockets/)
 * [Baking Bootstrap Snippets with Jade](http://webdesign.tutsplus.com/tutorials/baking-bootstrap-snippets-with-jade--cms-22798)
 * [How to Redirect a Web Page](http://css-tricks.com/redirect-web-page/)
+* [Recommendations for a Faster Workflow with Sass](http://webdesign.tutsplus.com/articles/recommendations-for-a-faster-workflow-with-sass--cms-21616)
 
 ## Guidelines
 
