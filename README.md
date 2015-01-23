@@ -22,3 +22,7 @@ List of inspiring articles. Tech stuff.
 ## Books
 
 * [The Little Book on CoffeeScript](http://arcturo.github.io/library/coffeescript/)
+
+# Finance
+
+* [Using the Yahoo Finance API for CSV](http://www.jarloo.com/yahoo_finance/)
