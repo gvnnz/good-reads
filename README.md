@@ -8,6 +8,7 @@ List of inspiring articles. Tech stuff.
 ## Tutorials
 
 * [Token-Based Authentication With AngularJS & NodeJS] (http://code.tutsplus.com/tutorials/token-based-authentication-with-angularjs-nodejs--cms-22543)
+* [The Anatomy of a JSON Web Token](https://scotch.io/tutorials/the-anatomy-of-a-json-web-token)
 * [A Simple Responsive Grid, Made Even Better With Sass](http://webdesign.tutsplus.com/tutorials/a-simple-responsive-grid-made-even-better-with-sass--cms-21540)
 * [Writing an AngularJS App with Socket.IO](http://www.html5rocks.com/en/tutorials/frameworks/angular-websockets/)
 * [Baking Bootstrap Snippets with Jade](http://webdesign.tutsplus.com/tutorials/baking-bootstrap-snippets-with-jade--cms-22798)
