@@ -22,6 +22,7 @@ List of inspiring articles. Tech stuff.
 * [North: design and development standards to align and guide your project](https://github.com/north/north#dark-patterns)
 * [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html)
 * [Understanding Angular Service Types](http://angular-tips.com/blog/2013/08/understanding-service-types/)
+* [Feed the bot](http://www.feedthebot.com/) - SEO resources and informations
 
 ## Books
 
