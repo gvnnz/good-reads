@@ -27,6 +27,7 @@ List of inspiring articles. Tech stuff.
 ## Books
 
 * [The Little Book on CoffeeScript](http://arcturo.github.io/library/coffeescript/)
+* [Developing Backbone.js applications](http://addyosmani.github.io/backbone-fundamentals/)
 
 # Finance
 
