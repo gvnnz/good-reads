@@ -29,6 +29,10 @@ List of inspiring articles. Tech stuff.
 * [The Little Book on CoffeeScript](http://arcturo.github.io/library/coffeescript/)
 * [Developing Backbone.js applications](http://addyosmani.github.io/backbone-fundamentals/)
 
+# Design
+
+* [Material design](http://www.google.com/design/spec/material-design/introduction.html)
+
 # Finance
 
 * [Using the Yahoo Finance API for CSV](http://www.jarloo.com/yahoo_finance/)
