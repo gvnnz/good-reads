@@ -31,7 +31,7 @@ List of inspiring articles. Tech stuff.
 
 # Design
 
-* [Material design](http://www.google.com/design/spec/material-design/introduction.html)
+* [Material design](http://www.google.com/design/spec/material-design/introduction.html) - Visual design principles by Google
 
 # Finance
 
