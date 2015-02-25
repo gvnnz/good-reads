@@ -37,3 +37,7 @@ List of inspiring articles. Tech stuff.
 # Finance
 
 * [Using the Yahoo Finance API for CSV](http://www.jarloo.com/yahoo_finance/)
+
+# Math
+
+* [Stat Trek](http://stattrek.com/) - Teach yourself statistics
