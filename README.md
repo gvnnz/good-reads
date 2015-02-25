@@ -23,6 +23,7 @@ List of inspiring articles. Tech stuff.
 * [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html)
 * [Understanding Angular Service Types](http://angular-tips.com/blog/2013/08/understanding-service-types/)
 * [Feed the bot](http://www.feedthebot.com/) - SEO resources and informations
+* [Revving Filenames: don’t use querystring](http://www.stevesouders.com/blog/2008/08/23/revving-filenames-dont-use-querystring/)
 
 ## Books
 
