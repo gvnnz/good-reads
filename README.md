@@ -1,7 +1,7 @@
 Good Read(ing)s
 ===============
 
-List of inspiring articles. Tech stuff. 
+List of inspiring articles and resources. Tech stuff. 
 
 # Web
 
@@ -41,3 +41,7 @@ List of inspiring articles. Tech stuff.
 # Math
 
 * [Stat Trek](http://stattrek.com/) - Teach yourself statistics
+
+# Video
+
+* [Fourcc](http://www.fourcc.org/) - your source for video codec and pixel format information
