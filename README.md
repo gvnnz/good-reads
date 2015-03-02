@@ -24,6 +24,7 @@ List of inspiring articles and resources. Tech stuff.
 * [Understanding Angular Service Types](http://angular-tips.com/blog/2013/08/understanding-service-types/)
 * [Feed the bot](http://www.feedthebot.com/) - SEO resources and informations
 * [Revving Filenames: don’t use querystring](http://www.stevesouders.com/blog/2008/08/23/revving-filenames-dont-use-querystring/)
+* [jQuery best practices](http://gregfranko.com/blog/jquery-best-practices/)
 
 ## Books
 
