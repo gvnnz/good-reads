@@ -38,6 +38,7 @@ List of inspiring articles and resources. Tech stuff.
 # Finance
 
 * [Using the Yahoo Finance API for CSV](http://www.jarloo.com/yahoo_finance/)
+* [Mechanical Markets](https://mechanicalmarkets.wordpress.com) - Algorithmic trading blog by Kipp Rogers
 
 # Math
 
