@@ -16,6 +16,7 @@ List of inspiring articles and resources. Tech stuff.
 * [How to Redirect a Web Page](http://css-tricks.com/redirect-web-page/)
 * [Recommendations for a Faster Workflow with Sass](http://webdesign.tutsplus.com/articles/recommendations-for-a-faster-workflow-with-sass--cms-21616)
 * [Which responsive images solution should you use?](http://css-tricks.com/which-responsive-images-solution-should-you-use/)
+* [Dealing with Timezones in Javascript](https://nulogy.com/articles/dealing-with-timezones-in-javascript)
 
 ## Guidelines
 
