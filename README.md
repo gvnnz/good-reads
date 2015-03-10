@@ -49,7 +49,8 @@ List of inspiring articles and resources. Tech stuff.
 
 ## AI
 
-*   [Neural Networks](http://www.doc.ic.ac.uk/~nd/surprise_96/journal/vol4/cs11/report.html) - By Christos Stergiou and Dimitrios Siganos
+* [Neural Networks](http://www.doc.ic.ac.uk/~nd/surprise_96/journal/vol4/cs11/report.html) - By Christos Stergiou and Dimitrios Siganos
+* [Data Experiments](http://dataexperiments.net/) - Data science, machine learning, data visualization, big data
 
 # Video
 
