@@ -43,7 +43,13 @@ List of inspiring articles and resources. Tech stuff.
 
 # Math
 
+## Statistic
+
 * [Stat Trek](http://stattrek.com/) - Teach yourself statistics
+
+## AI
+
+*   [Neural Networks](http://www.doc.ic.ac.uk/~nd/surprise_96/journal/vol4/cs11/report.html) - By Christos Stergiou and Dimitrios Siganos
 
 # Video
 
