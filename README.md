@@ -43,7 +43,7 @@ List of inspiring articles and resources. Tech stuff.
 
 # Math
 
-## Statistic
+## Statistics
 
 * [Stat Trek](http://stattrek.com/) - Teach yourself statistics
 
