@@ -55,6 +55,7 @@ List of inspiring articles and resources. Tech stuff.
 * [Data Experiments](http://dataexperiments.net/) - Data science, machine learning, data visualization, big data
 * [Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/) - Notes from the Stanford CS class CS231n: Convolutional Neural Networks for Visual Recognition
 * [Adaptive Memory-Prediction Framework](http://a-mpf.blogspot.it/) - articles about a set of common architectures for artificial general intelligence
+* [Text Understanding from Scratch](http://arxiv.org/pdf/1502.01710v1.pdf)(pdf)
 
 # Video
 
