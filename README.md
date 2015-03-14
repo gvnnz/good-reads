@@ -43,6 +43,8 @@ List of inspiring articles and resources. Tech stuff.
 
 # Math
 
+* [Performing Convolution Operations](https://developer.apple.com/library/ios/documentation/Performance/Conceptual/vImage/ConvolutionOperations/ConvolutionOperations.html)
+
 ## Statistics
 
 * [Stat Trek](http://stattrek.com/) - Teach yourself statistics
