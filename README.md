@@ -57,6 +57,7 @@ List of inspiring articles and resources. Tech stuff.
 * [Adaptive Memory-Prediction Framework](http://a-mpf.blogspot.it/) - articles about a set of common architectures for artificial general intelligence
 * [Text Understanding from Scratch](http://arxiv.org/pdf/1502.01710v1.pdf) (pdf)
 * [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
+* [I’m a bandit](https://blogs.princeton.edu/imabandit/) - random topics on optimization, probability, and statistics. By Sébastien Bubeck
 
 # Video
 
