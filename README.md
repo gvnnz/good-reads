@@ -48,6 +48,7 @@ List of inspiring articles and resources. Tech stuff.
 ## Statistics
 
 * [Stat Trek](http://stattrek.com/) - Teach yourself statistics
+* [How to Become a Data Scientist for Free](http://www.datasciencecentral.com/profiles/blogs/how-to-become-a-data-scientist-for-free?overrideMobileRedirect=1) - List of free resources
 
 ## AI
 
