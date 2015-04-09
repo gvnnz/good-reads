@@ -40,6 +40,7 @@ List of inspiring articles and resources. Tech stuff.
 
 * [Using the Yahoo Finance API for CSV](http://www.jarloo.com/yahoo_finance/)
 * [Mechanical Markets](https://mechanicalmarkets.wordpress.com) - Algorithmic trading blog by Kipp Rogers
+* [How To Trade Against The Losing Traders](http://www.tradeciety.com/trade-against-losing-traders/) - What is the Put/Call ratio
 
 # Math
 
