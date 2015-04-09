@@ -50,6 +50,7 @@ List of inspiring articles and resources. Tech stuff.
 
 * [Stat Trek](http://stattrek.com/) - Teach yourself statistics
 * [How to Become a Data Scientist for Free](http://www.datasciencecentral.com/profiles/blogs/how-to-become-a-data-scientist-for-free?overrideMobileRedirect=1) - List of free resources
+* [Probability Theory and Mathematical Statistics](https://onlinecourses.science.psu.edu/stat414/node/3) - Free online courses by Penn State University
 
 ## AI
 
