@@ -62,6 +62,7 @@ List of inspiring articles and resources. Tech stuff.
 * [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
 * [I’m a bandit](https://blogs.princeton.edu/imabandit/) - random topics on optimization, probability, and statistics. By Sébastien Bubeck
 * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
+* [Deep Learning: variety of resources](http://deeplearning.net/)
 
 # Video
 
