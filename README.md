@@ -63,6 +63,7 @@ List of inspiring articles and resources. Tech stuff.
 * [I’m a bandit](https://blogs.princeton.edu/imabandit/) - random topics on optimization, probability, and statistics. By Sébastien Bubeck
 * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 * [Deep Learning: variety of resources](http://deeplearning.net/)
+* [Pete Warden's blog](http://petewarden.com/)
 
 # Video
 
