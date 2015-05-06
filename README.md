@@ -1,7 +1,7 @@
 Good Read(ing)s
 ===============
 
-List of inspiring articles and resources. Tech stuff. 
+List of inspiring articles, books and resources. Tech stuff. 
 
 # Web
 
