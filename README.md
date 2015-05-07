@@ -26,6 +26,7 @@ List of inspiring articles, books and resources. Tech stuff.
 * [Feed the bot](http://www.feedthebot.com/) - SEO resources and informations
 * [Revving Filenames: don’t use querystring](http://www.stevesouders.com/blog/2008/08/23/revving-filenames-dont-use-querystring/)
 * [jQuery best practices](http://gregfranko.com/blog/jquery-best-practices/)
+* [Google C++ Style Guide](http://google-styleguide.googlecode.com/svn/trunk/cppguide.html)
 
 ## Books
 
