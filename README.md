@@ -65,7 +65,7 @@ List of inspiring articles, books and resources. Tech stuff.
 * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 * [Deep Learning: variety of resources](http://deeplearning.net/)
 * [Pete Warden's blog](http://petewarden.com/)
-* [Image Scaling using Deep Convolutional Neural Networks](http://engineering.flipboard.com/2015/05/scaling-convnets/)
+* [Image Scaling using Deep Convolutional Neural Networks](http://engineering.flipboard.com/2015/05/scaling-convnets/) + good NN overview
 
 # Video
 
