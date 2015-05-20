@@ -33,6 +33,12 @@ List of inspiring articles, books and resources. Tech stuff.
 * [The Little Book on CoffeeScript](http://arcturo.github.io/library/coffeescript/)
 * [Developing Backbone.js applications](http://addyosmani.github.io/backbone-fundamentals/)
 
+# Computing
+
+## Networks
+
+* [Tcpdump Tutorial for beginners](http://dillonhale.com/blog/linux-tutorials/tcpdump-primer/)
+
 # Design
 
 * [Material design](http://www.google.com/design/spec/material-design/introduction.html) - Visual design principles by Google
