@@ -43,6 +43,11 @@ List of inspiring articles, books and resources. Tech stuff.
 
 * [Material design](http://www.google.com/design/spec/material-design/introduction.html) - Visual design principles by Google
 
+# Game development
+
+* [A first-person engine in 265 lines
+by Hunter Loftis](http://www.playfuljs.com/a-first-person-engine-in-265-lines/)
+
 # Finance
 
 * [Using the Yahoo Finance API for CSV](http://www.jarloo.com/yahoo_finance/)
