@@ -47,6 +47,7 @@ List of inspiring articles, books and resources. Tech stuff.
 
 * [A first-person engine in 265 lines
 by Hunter Loftis](http://www.playfuljs.com/a-first-person-engine-in-265-lines/)
+* [Volume Visualization With Ray Casting](http://web.cs.wpi.edu/~matt/courses/cs563/talks/powwie/p1/ray-cast.htm)
 
 # Finance
 
