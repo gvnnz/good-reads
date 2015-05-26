@@ -80,6 +80,7 @@ by Hunter Loftis](http://www.playfuljs.com/a-first-person-engine-in-265-lines/)
 * [Deep Learning: variety of resources](http://deeplearning.net/)
 * [Pete Warden's blog](http://petewarden.com/)
 * [Image Scaling using Deep Convolutional Neural Networks](http://engineering.flipboard.com/2015/05/scaling-convnets/) + good NN overview
+* [Top 10 Data Mining Algorithms, Explained](http://www.kdnuggets.com/2015/05/top-10-data-mining-algorithms-explained.html)
 
 # Video
 
