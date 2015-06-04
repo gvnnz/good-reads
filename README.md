@@ -35,6 +35,10 @@ List of inspiring articles, books and resources. Tech stuff.
 
 # Computing
 
+## Development
+
+* [The twelve-factor app](http://12factor.net/) - a methodology for building great software-as-a-service apps
+
 ## Networks
 
 * [Tcpdump Tutorial for beginners](http://dillonhale.com/blog/linux-tutorials/tcpdump-primer/)
