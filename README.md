@@ -67,6 +67,10 @@ by Hunter Loftis](http://www.playfuljs.com/a-first-person-engine-in-265-lines/)
 
 * [Performing Convolution Operations](https://developer.apple.com/library/ios/documentation/Performance/Conceptual/vImage/ConvolutionOperations/ConvolutionOperations.html)
 
+# Pysics 
+
+* [The Feynman Lectures on Physics](http://www.feynmanlectures.caltech.edu/)
+
 ## Statistics
 
 * [Stat Trek](http://stattrek.com/) - Teach yourself statistics
