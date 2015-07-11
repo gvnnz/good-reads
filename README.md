@@ -38,6 +38,7 @@ List of inspiring articles, books and resources. Tech stuff.
 ## Development
 
 * [The twelve-factor app](http://12factor.net/) - a methodology for building great software-as-a-service apps
+* [OSDev.org](http://forum.osdev.org/) - the place to start for operating system developers
 
 ## Networks
 
