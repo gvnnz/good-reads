@@ -56,6 +56,7 @@ by Hunter Loftis](http://www.playfuljs.com/a-first-person-engine-in-265-lines/)
 * [Fabien Sanglard's website](http://fabiensanglard.net/)
 * [Voxel Space in the game Comanche](http://simulationcorner.net/index.php?page=comanche)
 * [Tutorials for OpenGL 3.3 and later](http://www.opengl-tutorial.org/)
+* [Game Programming Patterns](http://gameprogrammingpatterns.com/)
 
 # Finance
 
