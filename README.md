@@ -79,6 +79,9 @@ by Hunter Loftis](http://www.playfuljs.com/a-first-person-engine-in-265-lines/)
 * [Stat Trek](http://stattrek.com/) - Teach yourself statistics
 * [How to Become a Data Scientist for Free](http://www.datasciencecentral.com/profiles/blogs/how-to-become-a-data-scientist-for-free?overrideMobileRedirect=1) - List of free resources
 * [Probability Theory and Mathematical Statistics](https://onlinecourses.science.psu.edu/stat414/node/3) - Free online courses by Penn State University
+* [Awesome-datascience](https://github.com/okulbilisim/awesome-datascience) - An awesome Data Science repository to learn and apply for real world problems
+* [DataScienceResources](https://github.com/jonathan-bower/DataScienceResources) - Open Source Data Science Resources
+* [free-data-science-books](https://github.com/chaconnewu/free-data-science-books) - Free resources for learning data science
 
 ## AI
 
