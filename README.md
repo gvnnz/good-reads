@@ -57,6 +57,7 @@ by Hunter Loftis](http://www.playfuljs.com/a-first-person-engine-in-265-lines/)
 * [Voxel Space in the game Comanche](http://simulationcorner.net/index.php?page=comanche)
 * [Tutorials for OpenGL 3.3 and later](http://www.opengl-tutorial.org/)
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/)
+* [Ray Tracing Tutorial by the Codermind team](http://www.ics.uci.edu/~gopi/CS211B/RayTracing%20tutorial.pdf)
 
 # Finance
 
