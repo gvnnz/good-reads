@@ -58,6 +58,7 @@ by Hunter Loftis](http://www.playfuljs.com/a-first-person-engine-in-265-lines/)
 * [Tutorials for OpenGL 3.3 and later](http://www.opengl-tutorial.org/)
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/)
 * [Ray Tracing Tutorial by the Codermind team](http://www.ics.uci.edu/~gopi/CS211B/RayTracing%20tutorial.pdf)
+* [How to Build a JRPG: A Primer for Game Developers](http://gamedevelopment.tutsplus.com/articles/how-to-build-a-jrpg-a-primer-for-game-developers--gamedev-6676)
 
 # Finance
 
