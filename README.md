@@ -104,6 +104,7 @@ by Hunter Loftis](http://www.playfuljs.com/a-first-person-engine-in-265-lines/)
 * [A Neural Network in 11 lines of Python](http://iamtrask.github.io/2015/07/12/basic-python-network/)
 * [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 * [A* Pathfinding for Beginners](http://www.policyalmanac.org/games/aStarTutorial.htm)
+* [Introduction to A*](http://www.redblobgames.com/pathfinding/a-star/introduction.html)
 
 # Video
 
