@@ -110,6 +110,8 @@ by Hunter Loftis](http://www.playfuljs.com/a-first-person-engine-in-265-lines/)
 * [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 * [A* Pathfinding for Beginners](http://www.policyalmanac.org/games/aStarTutorial.htm)
 * [Introduction to A*](http://www.redblobgames.com/pathfinding/a-star/introduction.html)
+* [Implementing a Neural Network from Scratch](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
+* [A Deep Learning Tutorial: From Perceptrons to Deep Networks](http://www.bigdatatechcon.com/news/a-deep-learning-tutorial-from-perceptrons-to-deep-networks)
 
 # Video
 
