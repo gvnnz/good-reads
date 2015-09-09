@@ -76,6 +76,7 @@ by Hunter Loftis](http://www.playfuljs.com/a-first-person-engine-in-265-lines/)
 # Math
 
 * [Performing Convolution Operations](https://developer.apple.com/library/ios/documentation/Performance/Conceptual/vImage/ConvolutionOperations/ConvolutionOperations.html)
+* [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) - The world's first linear algebra book with fully interactive figures
 
 # Pysics 
 
