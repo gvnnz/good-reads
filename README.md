@@ -17,6 +17,7 @@ List of inspiring articles, books and resources. Tech stuff.
 * [Recommendations for a Faster Workflow with Sass](http://webdesign.tutsplus.com/articles/recommendations-for-a-faster-workflow-with-sass--cms-21616)
 * [Which responsive images solution should you use?](http://css-tricks.com/which-responsive-images-solution-should-you-use/)
 * [Dealing with Timezones in Javascript](https://nulogy.com/articles/dealing-with-timezones-in-javascript)
+* [Spring Security tutorials](http://www.mkyong.com/tutorials/spring-security-tutorials/)
 
 ## Guidelines
 
