@@ -28,7 +28,7 @@ List of inspiring articles, books and resources. Tech stuff.
 * [Feed the bot](http://www.feedthebot.com/) - SEO resources and informations
 * [Revving Filenames: don’t use querystring](http://www.stevesouders.com/blog/2008/08/23/revving-filenames-dont-use-querystring/)
 * [jQuery best practices](http://gregfranko.com/blog/jquery-best-practices/)
-* [Google C++ Style Guide](http://google-styleguide.googlecode.com/svn/trunk/cppguide.html)
+* [Script-injected "async scripts" considered harmful](https://www.igvita.com/2014/05/20/script-injected-async-scripts-considered-harmful/)
 
 ## Books
 
@@ -43,6 +43,7 @@ List of inspiring articles, books and resources. Tech stuff.
 * [OSDev.org](http://forum.osdev.org/) - the place to start for operating system developers
 * [How to setup Python Logger module](http://internalpointers.com/post/logging-python-sub-modules-and-configuration-files)
 * [Newbie's Overview of Docker](http://www.troubleshooters.com/linux/docker/docker_newbie.htm) - What, Why and How
+* [Google C++ Style Guide](http://google-styleguide.googlecode.com/svn/trunk/cppguide.html)
 
 ## Networks
 
