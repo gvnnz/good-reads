@@ -81,6 +81,9 @@ by Hunter Loftis](http://www.playfuljs.com/a-first-person-engine-in-265-lines/)
 
 * [Performing Convolution Operations](https://developer.apple.com/library/ios/documentation/Performance/Conceptual/vImage/ConvolutionOperations/ConvolutionOperations.html)
 * [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) - The world's first linear algebra book with fully interactive figures
+* [2D Transforms 101](http://legends2k.github.io/2d-transforms-101/) - a practitioner's introduction to transformations
+
+
 
 # Pysics 
 
