@@ -44,6 +44,7 @@ List of inspiring articles, books and resources. Tech stuff.
 * [How to setup Python Logger module](http://internalpointers.com/post/logging-python-sub-modules-and-configuration-files)
 * [Newbie's Overview of Docker](http://www.troubleshooters.com/linux/docker/docker_newbie.htm) - What, Why and How
 * [Google C++ Style Guide](http://google-styleguide.googlecode.com/svn/trunk/cppguide.html)
+* [C++ Smart pointers](https://blog.feabhas.com/2015/10/bitesize-modern-c-smart-pointers/)
 
 ## Networks
 
