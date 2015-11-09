@@ -121,6 +121,7 @@ by Hunter Loftis](http://www.playfuljs.com/a-first-person-engine-in-265-lines/)
 * [Introduction to A*](http://www.redblobgames.com/pathfinding/a-star/introduction.html)
 * [Implementing a Neural Network from Scratch](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
 * [A Deep Learning Tutorial: From Perceptrons to Deep Networks](http://www.bigdatatechcon.com/news/a-deep-learning-tutorial-from-perceptrons-to-deep-networks)
+* [Deep Learning in a Nutshell: Core Concepts](http://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/)
 
 # Video
 
