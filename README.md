@@ -45,6 +45,7 @@ List of inspiring articles, books and resources. Tech stuff.
 * [Newbie's Overview of Docker](http://www.troubleshooters.com/linux/docker/docker_newbie.htm) - What, Why and How
 * [Google C++ Style Guide](http://google-styleguide.googlecode.com/svn/trunk/cppguide.html)
 * [C++ Smart pointers](http://www.drdobbs.com/cpp/c11-uniqueptr/240002708)
+* [Constructor Exceptions in C++, C#, and Java](http://herbsutter.com/2008/07/25/constructor-exceptions-in-c-c-and-java/)
 
 ## Networks
 
