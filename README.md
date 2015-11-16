@@ -122,6 +122,7 @@ by Hunter Loftis](http://www.playfuljs.com/a-first-person-engine-in-265-lines/)
 * [Implementing a Neural Network from Scratch](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
 * [A Deep Learning Tutorial: From Perceptrons to Deep Networks](http://www.bigdatatechcon.com/news/a-deep-learning-tutorial-from-perceptrons-to-deep-networks)
 * [Deep Learning in a Nutshell: Core Concepts](http://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/)
+* [Christopher Olah's blog: a wandering machine learning researcher](http://colah.github.io/)
 
 # Video
 
