@@ -51,6 +51,10 @@ List of inspiring articles, books and resources. Tech stuff.
 
 * [Tcpdump Tutorial for beginners](http://dillonhale.com/blog/linux-tutorials/tcpdump-primer/)
 
+## Security
+
+* [How to Create Totally Secure Cookies](http://blog.teamtreehouse.com/how-to-create-totally-secure-cookies)
+
 # Design
 
 * [Material design](http://www.google.com/design/spec/material-design/introduction.html) - Visual design principles by Google
