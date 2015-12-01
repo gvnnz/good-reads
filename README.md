@@ -82,6 +82,7 @@ by Hunter Loftis](http://www.playfuljs.com/a-first-person-engine-in-265-lines/)
 * [Financial Markets video courses (2011) with Robert Shiller](https://www.youtube.com/playlist?list=PL8FB14A2200B87185&feature=plcp)
 * [Finance course @ Kahn Academy](https://www.youtube.com/playlist?list=PL9ECA8AEB409B3E4F)
 * [Great Github list of public data sets](http://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets)
+* [Statalgo](http://www.statalgo.com/) - Computational Statistics, Machine Learning, et. al.
 
 # Math
 
