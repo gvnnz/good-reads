@@ -73,6 +73,7 @@ by Hunter Loftis](http://www.playfuljs.com/a-first-person-engine-in-265-lines/)
 * [/v/ Game Marketing](http://vgamemarketing.com/) - a podcast for indie game developers looking to market their own games
 * [Marketing my latest mobile game](http://www.gamedev.net/page/resources/_/business/business-and-law/marketing-my-latest-mobile-game-post-mortem-of-the-first-month-r4168)
 * [Game Angst](http://gameangst.com/) - a blog about game development
+* [Fast, Accurate Collision Detection Between Circles or Spheres](http://www.gamasutra.com/view/feature/131424/pool_hall_lessons_fast_accurate_.php)
 
 # Finance
 
