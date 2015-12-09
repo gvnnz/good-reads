@@ -133,3 +133,7 @@ by Hunter Loftis](http://www.playfuljs.com/a-first-person-engine-in-265-lines/)
 # Video
 
 * [Fourcc](http://www.fourcc.org/) - your source for video codec and pixel format information
+
+# Psychology
+
+* [Mentat Wiki](http://www.ludism.org/mentat) -  a collaborative environment for exploring ways to become a better thinker
