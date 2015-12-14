@@ -129,6 +129,7 @@ by Hunter Loftis](http://www.playfuljs.com/a-first-person-engine-in-265-lines/)
 * [A Deep Learning Tutorial: From Perceptrons to Deep Networks](http://www.bigdatatechcon.com/news/a-deep-learning-tutorial-from-perceptrons-to-deep-networks)
 * [Deep Learning in a Nutshell: Core Concepts](http://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/)
 * [Christopher Olah's blog: a wandering machine learning researcher](http://colah.github.io/)
+* [Real-Time Strategy games AI: Problems and Techniques](http://webdocs.cs.ualberta.ca/~cdavid/pdf/ecgg15_chapter-rts_ai.pdf)
 
 # Video
 
