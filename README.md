@@ -104,6 +104,7 @@ by Hunter Loftis](http://www.playfuljs.com/a-first-person-engine-in-265-lines/)
 * [Awesome-datascience](https://github.com/okulbilisim/awesome-datascience) - An awesome Data Science repository to learn and apply for real world problems
 * [DataScienceResources](https://github.com/jonathan-bower/DataScienceResources) - Open Source Data Science Resources
 * [free-data-science-books](https://github.com/chaconnewu/free-data-science-books) - Free resources for learning data science
+* [Count Bayesie](https://www.countbayesie.com/) - probably a probability blog
 
 ## AI
 
