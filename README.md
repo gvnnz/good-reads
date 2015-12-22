@@ -59,6 +59,10 @@ List of inspiring articles, books and resources. Tech stuff.
 
 * [Material design](http://www.google.com/design/spec/material-design/introduction.html) - Visual design principles by Google
 
+## Testing
+
+* [Writing Testable JavaScript](http://alistapart.com/article/writing-testable-javascript)
+
 # Game development
 
 * [A first-person engine in 265 lines
