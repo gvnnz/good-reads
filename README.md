@@ -79,6 +79,7 @@ by Hunter Loftis](http://www.playfuljs.com/a-first-person-engine-in-265-lines/)
 * [Game Angst](http://gameangst.com/) - a blog about game development
 * [Fast, Accurate Collision Detection Between Circles or Spheres](http://www.gamasutra.com/view/feature/131424/pool_hall_lessons_fast_accurate_.php)
 * [How to Implement and Use a Message Queue in Your Game](http://gamedevelopment.tutsplus.com/tutorials/how-to-implement-and-use-a-message-queue-in-your-game--cms-25407)
+* [Understanding Component-Entity-Systems](http://www.gamedev.net/page/resources/_/technical/game-programming/understanding-component-entity-systems-r3013)
 * [Refactoring Game Entities with Components](http://cowboyprogramming.com/2007/01/05/evolve-your-heirachy/)
 
 # Finance
