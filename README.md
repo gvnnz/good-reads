@@ -19,7 +19,7 @@ List of inspiring articles, books and resources. Tech stuff.
 * [Dealing with Timezones in Javascript](https://nulogy.com/articles/dealing-with-timezones-in-javascript)
 * [Spring Security tutorials](http://www.mkyong.com/tutorials/spring-security-tutorials/)
 * [Plotting a function graph with Javascript and Canvas](http://www.javascripter.net/faq/plotafunctiongraph.htm)
-* 
+
 ## Guidelines
 
 * [North: design and development standards to align and guide your project](https://github.com/north/north#dark-patterns)
@@ -62,6 +62,10 @@ List of inspiring articles, books and resources. Tech stuff.
 ## Testing
 
 * [Writing Testable JavaScript](http://alistapart.com/article/writing-testable-javascript)
+
+## Optimization/best practices
+
+* [Writing Blazing Fast MySQL Queries](http://code.tutsplus.com/tutorials/writing-blazing-fast-mysql-queries--cms-25085)
 
 # Game development
 
