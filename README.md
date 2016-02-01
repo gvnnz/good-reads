@@ -152,3 +152,4 @@ by Hunter Loftis](http://www.playfuljs.com/a-first-person-engine-in-265-lines/)
 # Psychology
 
 * [Mentat Wiki](http://www.ludism.org/mentat) -  a collaborative environment for exploring ways to become a better thinker
+* [What's it Take to "Go Viral?" 11 Traits to Give Your Idea Wings](https://moz.com/blog/what-does-it-take-to-go-viral)
