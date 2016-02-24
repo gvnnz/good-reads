@@ -146,6 +146,7 @@ by Hunter Loftis](http://www.playfuljs.com/a-first-person-engine-in-265-lines/)
 * [Christopher Olah's blog: a wandering machine learning researcher](http://colah.github.io/)
 * [Real-Time Strategy games AI: Problems and Techniques](http://webdocs.cs.ualberta.ca/~cdavid/pdf/ecgg15_chapter-rts_ai.pdf)
 * [Mobile Music Modeling, Analysis and Recognition](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/37754.pdf)
+* [Hacker's guide to Neural Networks](https://karpathy.github.io/neuralnets/) 
 
 # Video
 
