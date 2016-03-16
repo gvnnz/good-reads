@@ -87,6 +87,7 @@ by Hunter Loftis](http://www.playfuljs.com/a-first-person-engine-in-265-lines/)
 * [Understanding Component-Entity-Systems](http://www.gamedev.net/page/resources/_/technical/game-programming/understanding-component-entity-systems-r3013)
 * [Refactoring Game Entities with Components](http://cowboyprogramming.com/2007/01/05/evolve-your-heirachy/)
 * [How to Use Tile Bitmasking to Auto-Tile Your Level Layouts](http://gamedevelopment.tutsplus.com/tutorials/how-to-use-tile-bitmasking-to-auto-tile-your-level-layouts--cms-25673)
+* [open.gl](OpenGL tutorial, on GitHub)
 
 # Finance
 
