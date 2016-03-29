@@ -150,6 +150,7 @@ by Hunter Loftis](http://www.playfuljs.com/a-first-person-engine-in-265-lines/)
 * [Mobile Music Modeling, Analysis and Recognition](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/37754.pdf)
 * [Hacker's guide to Neural Networks](https://karpathy.github.io/neuralnets/) 
 * [Deep Learning by Google](https://www.udacity.com/course/deep-learning--ud730)
+* [Demystifying deep reinforcement learning](http://www.nervanasys.com/demystifying-deep-reinforcement-learning/)
 
 # Video
 
