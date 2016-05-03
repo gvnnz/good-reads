@@ -100,6 +100,7 @@ by Hunter Loftis](http://www.playfuljs.com/a-first-person-engine-in-265-lines/)
 * [Great Github list of public data sets](http://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets)
 * [Statalgo](http://www.statalgo.com/) - Computational Statistics, Machine Learning, et. al.
 * [An Introduction to Investment Funds](http://www.internalpointers.com/post/introduction-investment-funds)
+* [What should I know about Index Funds](http://www.internalpointers.com/post/should-i-know-index-funds)
 
 # Math
 
