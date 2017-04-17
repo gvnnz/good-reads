@@ -101,6 +101,7 @@ by Hunter Loftis](http://www.playfuljs.com/a-first-person-engine-in-265-lines/)
 * [Statalgo](http://www.statalgo.com/) - Computational Statistics, Machine Learning, et. al.
 * [An Introduction to Investment Funds](http://www.internalpointers.com/post/introduction-investment-funds)
 * [What should I know about Index Funds](http://www.internalpointers.com/post/should-i-know-index-funds)
+* [Bonds, a gentle introduction](https://www.internalpointers.com/post/bonds-gentle-introduction)
 
 # Math
 
