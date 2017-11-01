@@ -47,6 +47,7 @@ List of inspiring articles, books and resources. Tech stuff.
 * [C++ Smart pointers](http://www.drdobbs.com/cpp/c11-uniqueptr/240002708)
 * [Constructor Exceptions in C++, C#, and Java](http://herbsutter.com/2008/07/25/constructor-exceptions-in-c-c-and-java/)
 * [reproducible-builds.org](https://reproducible-builds.org) - provide a verifiable path from source code to binary
+* [A list of useful git commands](https://www.internalpointers.com/post/list-useful-git-commands)
 
 ## Networks
 
